@@ -1,0 +1,476 @@
+Dataset: PseKRAAC type 16.csv
+Params: {'max_depth': 50, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 8, 'n_estimators': 343}
+MCC: 0.19779480091221577
+Accuracy: 0.5988372093023255
+Specificity: 0.6162790697674418
+Sensitivity: 0.5813953488372093
+
+Dataset: binary_6bit.csv
+Params: {'max_depth': 40, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 566}
+MCC: 0.19482013155217984
+Accuracy: 0.5973837209302325
+Specificity: 0.6090116279069767
+Sensitivity: 0.5857558139534884
+
+Dataset: TPC type 1.csv
+Params: {'max_depth': 20, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 443}
+MCC: 0.4665939186867653
+Accuracy: 0.7332848837209303
+Specificity: 0.7383720930232558
+Sensitivity: 0.7281976744186046
+
+Dataset: PseKRAAC type 11.csv
+Params: {'max_depth': 20, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 443}
+MCC: 0.24564187016983458
+Accuracy: 0.6228197674418605
+Specificity: 0.625
+Sensitivity: 0.6206395348837209
+
+Dataset: binary.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 171}
+MCC: 0.20209658813845927
+Accuracy: 0.6010174418604651
+Specificity: 0.6133720930232558
+Sensitivity: 0.5886627906976745
+
+Dataset: binary_3bit type 2.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 171}
+MCC: 0.1991449468365899
+Accuracy: 0.5995639534883721
+Specificity: 0.6061046511627907
+Sensitivity: 0.5930232558139535
+
+Dataset: binary_3bit type 7.csv
+Params: {'max_depth': 50, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 660}
+MCC: 0.19772789470967506
+Accuracy: 0.5988372093023255
+Specificity: 0.6104651162790697
+Sensitivity: 0.5872093023255814
+
+Dataset: PAAC.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.4955372538983499
+Accuracy: 0.7456395348837209
+Specificity: 0.811046511627907
+Sensitivity: 0.6802325581395349
+
+Dataset: GTPC type 1.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.43832113737969847
+Accuracy: 0.7180232558139535
+Specificity: 0.7688953488372093
+Sensitivity: 0.6671511627906976
+
+Dataset: DPC type 2.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.522338942948493
+Accuracy: 0.7601744186046512
+Specificity: 0.8037790697674418
+Sensitivity: 0.7165697674418605
+
+Dataset: OPF_10bit.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 171}
+MCC: 0.20350987026559114
+Accuracy: 0.6017441860465116
+Specificity: 0.6090116279069767
+Sensitivity: 0.5944767441860465
+
+Dataset: APAAC.csv
+Params: {'max_depth': 30, 'max_features': 'log2', 'min_samples_leaf': 2, 'min_samples_split': 3, 'n_estimators': 291}
+MCC: 0.45536066503682543
+Accuracy: 0.7260174418604651
+Specificity: 0.7863372093023255
+Sensitivity: 0.6656976744186046
+
+Dataset: PseKRAAC type 13.csv
+Params: {'max_depth': 20, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 443}
+MCC: 0.3604788245804732
+Accuracy: 0.6802325581395349
+Specificity: 0.6758720930232558
+Sensitivity: 0.684593023255814
+
+Dataset: BLOSUM62.csv
+Params: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 6, 'n_estimators': 199}
+MCC: 0.20787540829931075
+Accuracy: 0.6039244186046512
+Specificity: 0.6119186046511628
+Sensitivity: 0.5959302325581395
+
+Dataset: EGAAC.csv
+Params: {'max_depth': 20, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 443}
+MCC: 0.34806419899849006
+Accuracy: 0.6736918604651163
+Specificity: 0.7049418604651163
+Sensitivity: 0.6424418604651163
+
+Dataset: GDPC type 1.csv
+Params: {'max_depth': 20, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 443}
+MCC: 0.4237104328003752
+Accuracy: 0.7107558139534884
+Specificity: 0.7616279069767442
+Sensitivity: 0.6598837209302325
+
+Dataset: CKSAAGP type 2.csv
+Params: {'max_depth': 30, 'max_features': 'log2', 'min_samples_leaf': 3, 'min_samples_split': 7, 'n_estimators': 786}
+MCC: 0.45014617508912413
+Accuracy: 0.7238372093023255
+Specificity: 0.7761627906976745
+Sensitivity: 0.6715116279069767
+
+Dataset: CC.csv
+Params: {'max_depth': 50, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 660}
+MCC: 0.40734528322111574
+Accuracy: 0.7027616279069767
+Specificity: 0.75
+Sensitivity: 0.6555232558139535
+
+Dataset: CTriad.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.4466178641840921
+Accuracy: 0.7231104651162791
+Specificity: 0.7441860465116279
+Sensitivity: 0.7020348837209303
+
+Dataset: binary_5bit type 1.csv
+Params: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 6, 'n_estimators': 199}
+MCC: 0.19492893922977844
+Accuracy: 0.5973837209302325
+Specificity: 0.6177325581395349
+Sensitivity: 0.5770348837209303
+
+Dataset: PseKRAAC type 12.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 171}
+MCC: 0.23548999273589832
+Accuracy: 0.6177325581395349
+Specificity: 0.625
+Sensitivity: 0.6104651162790697
+
+Dataset: ACC.csv
+Params: {'max_depth': 40, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 566}
+MCC: 0.40543594876407507
+Accuracy: 0.7013081395348837
+Specificity: 0.7601744186046512
+Sensitivity: 0.6424418604651163
+
+Dataset: CTDT.csv
+Params: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 575}
+MCC: 0.44987719019800726
+Accuracy: 0.7238372093023255
+Specificity: 0.7732558139534884
+Sensitivity: 0.6744186046511628
+
+Dataset: binary_3bit type 5.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.19771535735369428
+Accuracy: 0.5988372093023255
+Specificity: 0.6090116279069767
+Sensitivity: 0.5886627906976745
+
+Dataset: PseKRAAC type 8.csv
+Params: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 6, 'n_estimators': 199}
+MCC: 0.2427635887131811
+Accuracy: 0.6213662790697675
+Specificity: 0.6133720930232558
+Sensitivity: 0.6293604651162791
+
+Dataset: PseKRAAC type 2.csv
+Params: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 6, 'n_estimators': 199}
+MCC: 0.3197796024504198
+Accuracy: 0.6598837209302325
+Specificity: 0.6642441860465116
+Sensitivity: 0.6555232558139535
+
+Dataset: binary_3bit type 1.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 171}
+MCC: 0.19913821451740452
+Accuracy: 0.5995639534883721
+Specificity: 0.6046511627906976
+Sensitivity: 0.5944767441860465
+
+Dataset: binary_3bit type 6.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.199128117318718
+Accuracy: 0.5995639534883721
+Specificity: 0.6002906976744186
+Sensitivity: 0.5988372093023255
+
+Dataset: QSOrder.csv
+Params: {'max_depth': 40, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 566}
+MCC: 0.49618334523834456
+Accuracy: 0.7463662790697675
+Specificity: 0.8052325581395349
+Sensitivity: 0.6875
+
+Dataset: binary_5bit type 2.csv
+Params: {'max_depth': 30, 'max_features': 'log2', 'min_samples_leaf': 2, 'min_samples_split': 3, 'n_estimators': 291}
+MCC: 0.18318907892219896
+Accuracy: 0.5915697674418605
+Specificity: 0.6031976744186046
+Sensitivity: 0.5799418604651163
+
+Dataset: binary_3bit type 3.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.18896067417524806
+Accuracy: 0.5944767441860465
+Specificity: 0.5988372093023255
+Sensitivity: 0.5901162790697675
+
+Dataset: TPC type 2.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.450002011308034
+Accuracy: 0.7231104651162791
+Specificity: 0.7877906976744186
+Sensitivity: 0.6584302325581395
+
+Dataset: OPF_7bit type 3.csv
+Params: {'max_depth': 30, 'max_features': 'log2', 'min_samples_leaf': 2, 'min_samples_split': 3, 'n_estimators': 291}
+MCC: 0.19635060301071758
+Accuracy: 0.5981104651162791
+Specificity: 0.6162790697674418
+Sensitivity: 0.5799418604651163
+
+Dataset: KSCTriad.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.45243698945033434
+Accuracy: 0.7260174418604651
+Specificity: 0.747093023255814
+Sensitivity: 0.7049418604651163
+
+Dataset: PseKRAAC type 7.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.2854160439857374
+Accuracy: 0.6424418604651163
+Specificity: 0.6119186046511628
+Sensitivity: 0.6729651162790697
+
+Dataset: CKSAAP type 2.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.5115297444194592
+Accuracy: 0.7543604651162791
+Specificity: 0.8066860465116279
+Sensitivity: 0.7020348837209303
+
+Dataset: PseKRAAC type 5.csv
+Params: {'max_depth': 30, 'max_features': 'log2', 'min_samples_leaf': 3, 'min_samples_split': 7, 'n_estimators': 786}
+MCC: 0.29511082656814264
+Accuracy: 0.6475290697674418
+Specificity: 0.6380813953488372
+Sensitivity: 0.6569767441860465
+
+Dataset: PseKRAAC type 6C.csv
+Params: {'max_depth': 20, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 443}
+MCC: 0.36920008646548463
+Accuracy: 0.684593023255814
+Specificity: 0.6802325581395349
+Sensitivity: 0.688953488372093
+
+Dataset: SOCNumber.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 171}
+MCC: 0.2986628305410648
+Accuracy: 0.6489825581395349
+Specificity: 0.6831395348837209
+Sensitivity: 0.6148255813953488
+
+Dataset: AESNN3.csv
+Params: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 6, 'n_estimators': 199}
+MCC: 0.20074771353514498
+Accuracy: 0.6002906976744186
+Specificity: 0.6206395348837209
+Sensitivity: 0.5799418604651163
+
+Dataset: DistancePair.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.5077186849411245
+Accuracy: 0.7521802325581395
+Specificity: 0.809593023255814
+Sensitivity: 0.6947674418604651
+
+Dataset: CKSAAGP type 1.csv
+Params: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 575}
+MCC: 0.4608973652923753
+Accuracy: 0.7289244186046512
+Specificity: 0.7863372093023255
+Sensitivity: 0.6715116279069767
+
+Dataset: PseKRAAC type 3A.csv
+Params: {'max_depth': 50, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 660}
+MCC: 0.2428066922239043
+Accuracy: 0.6213662790697675
+Specificity: 0.6090116279069767
+Sensitivity: 0.6337209302325582
+
+Dataset: PseKRAAC type 6B.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.37225034183077976
+Accuracy: 0.686046511627907
+Specificity: 0.7005813953488372
+Sensitivity: 0.6715116279069767
+
+Dataset: CTDD.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.5264778574650462
+Accuracy: 0.7616279069767442
+Specificity: 0.8168604651162791
+Sensitivity: 0.7063953488372093
+
+Dataset: GTPC type 2.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 171}
+MCC: 0.43222595821872734
+Accuracy: 0.7151162790697675
+Specificity: 0.7630813953488372
+Sensitivity: 0.6671511627906976
+
+Dataset: AC.csv
+Params: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 575}
+MCC: 0.36624464438878607
+Accuracy: 0.6816860465116279
+Specificity: 0.7441860465116279
+Sensitivity: 0.6191860465116279
+
+Dataset: PseKRAAC type 10.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.2485467741715385
+Accuracy: 0.6242732558139535
+Specificity: 0.623546511627907
+Sensitivity: 0.625
+
+Dataset: DPC type 1.csv
+Params: {'max_depth': 20, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 443}
+MCC: 0.5031646479542932
+Accuracy: 0.7492732558139535
+Specificity: 0.8168604651162791
+Sensitivity: 0.6816860465116279
+
+Dataset: ZScale.csv
+Params: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 6, 'n_estimators': 199}
+MCC: 0.206409303426241
+Accuracy: 0.6031976744186046
+Specificity: 0.6090116279069767
+Sensitivity: 0.5973837209302325
+
+Dataset: ASDC.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.5170425708861881
+Accuracy: 0.7565406976744186
+Specificity: 0.8183139534883721
+Sensitivity: 0.6947674418604651
+
+Dataset: PseKRAAC type 4.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 171}
+MCC: 0.3849983958433593
+Accuracy: 0.6918604651162791
+Specificity: 0.7325581395348837
+Sensitivity: 0.6511627906976745
+
+Dataset: OPF_7bit type 1.csv
+Params: {'max_depth': 50, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 660}
+MCC: 0.20503739623010167
+Accuracy: 0.6024709302325582
+Specificity: 0.6177325581395349
+Sensitivity: 0.5872093023255814
+
+Dataset: binary_3bit type 4.csv
+Params: {'max_depth': 50, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 660}
+MCC: 0.19342206606264897
+Accuracy: 0.596656976744186
+Specificity: 0.6133720930232558
+Sensitivity: 0.5799418604651163
+
+Dataset: PseKRAAC type 3B.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 171}
+MCC: 0.2414025198398636
+Accuracy: 0.6206395348837209
+Specificity: 0.6366279069767442
+Sensitivity: 0.6046511627906976
+
+Dataset: CTDC.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.46829487917032103
+Accuracy: 0.7332848837209303
+Specificity: 0.7761627906976745
+Sensitivity: 0.690406976744186
+
+Dataset: PseKRAAC type 14.csv
+Params: {'max_depth': 30, 'max_features': 'log2', 'min_samples_leaf': 2, 'min_samples_split': 3, 'n_estimators': 291}
+MCC: 0.19186776147025186
+Accuracy: 0.5959302325581395
+Specificity: 0.6002906976744186
+Sensitivity: 0.5915697674418605
+
+Dataset: GAAC.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 4, 'n_estimators': 171}
+MCC: 0.34566509737656104
+Accuracy: 0.6722383720930233
+Specificity: 0.7136627906976745
+Sensitivity: 0.6308139534883721
+
+Dataset: PseKRAAC type 9.csv
+Params: {'max_depth': 30, 'max_features': 'log2', 'min_samples_leaf': 3, 'min_samples_split': 7, 'n_estimators': 786}
+MCC: 0.3526033806158686
+Accuracy: 0.6758720930232558
+Specificity: 0.7107558139534884
+Sensitivity: 0.6409883720930233
+
+Dataset: GDPC type 2.csv
+Params: {'max_depth': 30, 'max_features': 'log2', 'min_samples_leaf': 2, 'min_samples_split': 3, 'n_estimators': 291}
+MCC: 0.4058294699095012
+Accuracy: 0.7020348837209303
+Specificity: 0.748546511627907
+Sensitivity: 0.6555232558139535
+
+Dataset: AAC.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.49953895794713793
+Accuracy: 0.748546511627907
+Specificity: 0.7979651162790697
+Sensitivity: 0.6991279069767442
+
+Dataset: PseKRAAC type 15.csv
+Params: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 6, 'n_estimators': 199}
+MCC: 0.26472398229425637
+Accuracy: 0.6322674418604651
+Specificity: 0.6511627906976745
+Sensitivity: 0.6133720930232558
+
+Dataset: KNN.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.19480777856908113
+Accuracy: 0.5973837209302325
+Specificity: 0.6075581395348837
+Sensitivity: 0.5872093023255814
+
+Dataset: AAIndex.csv
+Params: {'max_depth': 40, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 566}
+MCC: 0.206398837219129
+Accuracy: 0.6031976744186046
+Specificity: 0.6061046511627907
+Sensitivity: 0.6002906976744186
+
+Dataset: PseKRAAC type 1.csv
+Params: {'max_depth': 20, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 443}
+MCC: 0.24273486578912648
+Accuracy: 0.6213662790697675
+Specificity: 0.623546511627907
+Sensitivity: 0.6191860465116279
+
+Dataset: OPF_7bit type 2.csv
+Params: {'max_depth': 50, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 8, 'n_estimators': 343}
+MCC: 0.1992207325072619
+Accuracy: 0.5995639534883721
+Specificity: 0.6148255813953488
+Sensitivity: 0.5843023255813954
+
+Dataset: PseKRAAC type 6A.csv
+Params: {'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 6, 'n_estimators': 199}
+MCC: 0.3402600780796971
+Accuracy: 0.6700581395348837
+Specificity: 0.684593023255814
+Sensitivity: 0.6555232558139535
+
+Dataset: NMBroto.csv
+Params: {'max_depth': 30, 'max_features': 'log2', 'min_samples_leaf': 2, 'min_samples_split': 3, 'n_estimators': 291}
+MCC: 0.435699453617725
+Accuracy: 0.717296511627907
+Specificity: 0.752906976744186
+Sensitivity: 0.6816860465116279
+

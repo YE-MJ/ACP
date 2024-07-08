@@ -1,0 +1,56 @@
+Dataset: AAC.csv
+Params: {'learning_rate': 0.01, 'max_depth': 9, 'max_features': 'sqrt', 'n_estimators': 437, 'subsample': 0.6}
+MCC: 0.4523258560026346
+Accuracy: 0.7246376811594203
+Specificity: 0.782608695652174
+Sensitivity: 0.6666666666666666
+
+Dataset: CKSAAP type 2.csv
+Params: {'learning_rate': 0.01, 'max_depth': 9, 'max_features': 'sqrt', 'n_estimators': 437, 'subsample': 0.6}
+MCC: 0.46442212081236284
+Accuracy: 0.730909090909091
+Specificity: 0.781021897810219
+Sensitivity: 0.6811594202898551
+
+Dataset: DPC type 2.csv
+Params: {'learning_rate': 0.2, 'max_depth': 9, 'max_features': 'sqrt', 'n_estimators': 264, 'subsample': 0.8}
+MCC: 0.5506616595499795
+Accuracy: 0.7745454545454545
+Specificity: 0.8102189781021898
+Sensitivity: 0.7391304347826086
+
+Dataset: CKSAAP type 2_AAC.csv
+Params: {'learning_rate': 0.2, 'max_depth': 9, 'max_features': 'sqrt', 'n_estimators': 264, 'subsample': 0.8}
+MCC: 0.5129957680907037
+Accuracy: 0.7563636363636363
+Specificity: 0.7753623188405797
+Sensitivity: 0.7372262773722628
+
+Dataset: CKSAAP type 2_DPC type 2.csv
+Params: {'learning_rate': 0.15, 'max_depth': 7, 'max_features': 'log2', 'n_estimators': 156, 'subsample': 1.0}
+MCC: 0.5085834195042094
+Accuracy: 0.7536231884057971
+Specificity: 0.7898550724637681
+Sensitivity: 0.717391304347826
+
+Dataset: DPC type 2_AAC.csv
+Params: {'learning_rate': 0.1, 'max_depth': 7, 'max_features': 'log2', 'n_estimators': 184, 'subsample': 1.0}
+MCC: 0.49823740205751244
+Accuracy: 0.7454545454545455
+Specificity: 0.8333333333333334
+Sensitivity: 0.656934306569343
+
+Dataset: CKSAAP type 2_DPC type 2.csv
+Params: {'learning_rate': 0.1, 'max_depth': 7, 'max_features': 'log2', 'n_estimators': 184, 'subsample': 1.0}
+MCC: 0.47251800530612265
+Accuracy: 0.7355072463768116
+Specificity: 0.7753623188405797
+Sensitivity: 0.6956521739130435
+
+Dataset: DPC type 2_CKSAAP type 2_AAC.csv
+Params: {'learning_rate': 0.01, 'max_depth': 9, 'max_features': 'sqrt', 'n_estimators': 437, 'subsample': 0.6}
+MCC: 0.4766137806305766
+Accuracy: 0.7381818181818182
+Specificity: 0.7518248175182481
+Sensitivity: 0.7246376811594203
+

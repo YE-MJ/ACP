@@ -1,0 +1,6 @@
+Dataset: DPC type 2_AAC.csv
+Ensemble MCC: 0.522338942948493
+Ensemble Accuracy: 0.7601744186046512
+Ensemble Specificity: 0.8037790697674418
+Ensemble Sensitivity: 0.7165697674418605
+

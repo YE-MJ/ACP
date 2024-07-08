@@ -1,0 +1,6 @@
+Dataset: DPC type 2.csv
+Ensemble MCC: 0.5104745609285942
+Ensemble Accuracy: 0.7536337209302325
+Ensemble Specificity: 0.809593023255814
+Ensemble Sensitivity: 0.6976744186046512
+

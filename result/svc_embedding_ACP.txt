@@ -1,0 +1,28 @@
+Dataset: protein_embeddings_unirep.csv
+Params: {'C': 1.6599452033620266, 'gamma': 0.06808361216819946, 'kernel': 'rbf'}
+MCC: 0.44049553927393487
+Accuracy: 0.7085755813953488
+Specificity: 0.8691860465116279
+Sensitivity: 0.5479651162790697
+
+Dataset: protein_embeddings_prott5.csv
+Params: {'C': 1.9340450985343383, 'gamma': 0.31424224295953773, 'kernel': 'rbf'}
+MCC: 0.5087654052254162
+Accuracy: 0.752906976744186
+Specificity: 0.8066860465116279
+Sensitivity: 0.6991279069767442
+
+Dataset: protein_embeddings_protbert.csv
+Params: {'C': 6.218528947223795, 'gamma': 0.14949386065204184, 'kernel': 'rbf'}
+MCC: 0.464657775844114
+Accuracy: 0.7318313953488372
+Specificity: 0.7645348837209303
+Sensitivity: 0.6991279069767442
+
+Dataset: protein_embeddings_esm2.csv
+Params: {'C': 1.9340450985343383, 'gamma': 0.31424224295953773, 'kernel': 'rbf'}
+MCC: 0.5184087329536863
+Accuracy: 0.7587209302325582
+Specificity: 0.7892441860465116
+Sensitivity: 0.7281976744186046
+

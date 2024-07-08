@@ -1,0 +1,6 @@
+Dataset: CTDD_CKSAAP type 2_AAC_QSOrder.csv
+Ensemble MCC: 0.5507606523669353
+Ensemble Accuracy: 0.7747093023255814
+Ensemble Specificity: 0.809593023255814
+Ensemble Sensitivity: 0.7398255813953488
+

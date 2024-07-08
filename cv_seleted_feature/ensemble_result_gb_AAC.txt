@@ -1,0 +1,6 @@
+Dataset: AAC.csv
+Ensemble MCC: 0.49522941671001564
+Ensemble Accuracy: 0.7463662790697675
+Ensemble Specificity: 0.7965116279069767
+Ensemble Sensitivity: 0.6962209302325582
+

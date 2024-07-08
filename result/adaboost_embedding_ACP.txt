@@ -1,0 +1,28 @@
+Dataset: protein_embeddings_unirep.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.3621210108992451
+Accuracy: 0.6809593023255814
+Specificity: 0.6976744186046512
+Sensitivity: 0.6642441860465116
+
+Dataset: protein_embeddings_prott5.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.3792570472792495
+Accuracy: 0.688953488372093
+Specificity: 0.7311046511627907
+Sensitivity: 0.6468023255813954
+
+Dataset: protein_embeddings_protbert.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.401776095001855
+Accuracy: 0.7005813953488372
+Specificity: 0.7281976744186046
+Sensitivity: 0.6729651162790697
+
+Dataset: protein_embeddings_esm2.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.43870699613570757
+Accuracy: 0.71875
+Specificity: 0.7558139534883721
+Sensitivity: 0.6816860465116279
+

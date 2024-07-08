@@ -1,0 +1,6 @@
+Dataset: protein_embeddings_prott5.csv
+Ensemble MCC: 0.44402792671933333
+Ensemble Accuracy: 0.721656976744186
+Ensemble Specificity: 0.75
+Ensemble Sensitivity: 0.6933139534883721
+

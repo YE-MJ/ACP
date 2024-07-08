@@ -1,0 +1,63 @@
+Dataset: AAC.csv
+Params: {'max_depth': 20, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 443}
+MCC: 0.5262348115842176
+Accuracy: 0.7608695652173914
+Specificity: 0.8260869565217391
+Sensitivity: 0.6956521739130435
+
+Dataset: ASDC.csv
+Params: {'max_depth': 30, 'max_features': 'log2', 'min_samples_leaf': 2, 'min_samples_split': 3, 'n_estimators': 291}
+MCC: 0.4660742761426871
+Accuracy: 0.730909090909091
+Specificity: 0.7956204379562044
+Sensitivity: 0.6666666666666666
+
+Dataset: CKSAAP type 2.csv
+Params: {'max_depth': 40, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 566}
+MCC: 0.574499677998464
+Accuracy: 0.7854545454545454
+Specificity: 0.8394160583941606
+Sensitivity: 0.7318840579710145
+
+Dataset: QSOrder.csv
+Params: {'max_depth': 50, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 8, 'n_estimators': 343}
+MCC: 0.49872922746445514
+Accuracy: 0.7490909090909091
+Specificity: 0.7753623188405797
+Sensitivity: 0.7226277372262774
+
+Dataset: CTDD.csv
+Params: {'max_depth': 40, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 566}
+MCC: 0.43803954406079443
+Accuracy: 0.7163636363636363
+Specificity: 0.7971014492753623
+Sensitivity: 0.635036496350365
+
+Dataset: DPC type 2.csv
+Params: {'max_depth': 20, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 443}
+MCC: 0.5739640213948524
+Accuracy: 0.782608695652174
+Specificity: 0.8695652173913043
+Sensitivity: 0.6956521739130435
+
+Dataset: CTDD_AAC.csv
+Params: {'max_depth': 20, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 443}
+MCC: 0.48857119195262055
+Accuracy: 0.7418181818181818
+Specificity: 0.8102189781021898
+Sensitivity: 0.6739130434782609
+
+Dataset: CTDD_DPC type 2_ASDC_AAC_QSOrder.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.5367336544233424
+Accuracy: 0.7672727272727272
+Specificity: 0.8102189781021898
+Sensitivity: 0.7246376811594203
+
+Dataset: CTDD_CKSAAP type 2_AAC_QSOrder.csv
+Params: {'max_depth': 30, 'max_features': 'log2', 'min_samples_leaf': 3, 'min_samples_split': 7, 'n_estimators': 786}
+MCC: 0.5002450218683863
+Accuracy: 0.7490909090909091
+Specificity: 0.7971014492753623
+Sensitivity: 0.7007299270072993
+

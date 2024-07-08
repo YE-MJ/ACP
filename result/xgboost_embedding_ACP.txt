@@ -1,0 +1,28 @@
+Dataset: protein_embeddings_unirep.csv
+Params: {'colsample_bytree': 1.0, 'gamma': 0, 'learning_rate': 0.05, 'max_depth': 6, 'n_estimators': 700, 'reg_alpha': 1, 'reg_lambda': 0.1, 'subsample': 0.7}
+MCC: 0.41640203236453976
+Accuracy: 0.7078488372093024
+Specificity: 0.7369186046511628
+Sensitivity: 0.6787790697674418
+
+Dataset: protein_embeddings_prott5.csv
+Params: {'colsample_bytree': 0.9, 'gamma': 0, 'learning_rate': 0.2, 'max_depth': 10, 'n_estimators': 848, 'reg_alpha': 0.1, 'reg_lambda': 2, 'subsample': 0.7}
+MCC: 0.49203014532835865
+Accuracy: 0.7456395348837209
+Specificity: 0.7732558139534884
+Sensitivity: 0.7180232558139535
+
+Dataset: protein_embeddings_protbert.csv
+Params: {'colsample_bytree': 1.0, 'gamma': 0, 'learning_rate': 0.05, 'max_depth': 6, 'n_estimators': 700, 'reg_alpha': 1, 'reg_lambda': 0.1, 'subsample': 0.7}
+MCC: 0.46535425511299006
+Accuracy: 0.7325581395348837
+Specificity: 0.748546511627907
+Sensitivity: 0.7165697674418605
+
+Dataset: protein_embeddings_esm2.csv
+Params: {'colsample_bytree': 1.0, 'gamma': 0.2, 'learning_rate': 0.01, 'max_depth': 6, 'n_estimators': 661, 'reg_alpha': 1, 'reg_lambda': 0.1, 'subsample': 0.7}
+MCC: 0.512494809064049
+Accuracy: 0.7558139534883721
+Specificity: 0.7848837209302325
+Sensitivity: 0.7267441860465116
+

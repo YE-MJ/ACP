@@ -1,0 +1,56 @@
+Dataset: AAC.csv
+Params: {'depth': 9, 'iterations': 535, 'l2_leaf_reg': 9, 'learning_rate': 0.1}
+MCC: 0.515095916636406
+Accuracy: 0.7536231884057971
+Specificity: 0.8405797101449275
+Sensitivity: 0.6666666666666666
+
+Dataset: CKSAAP type 2.csv
+Params: {'depth': 8, 'iterations': 352, 'l2_leaf_reg': 7, 'learning_rate': 0.01}
+MCC: 0.4445341294200179
+Accuracy: 0.72
+Specificity: 0.7883211678832117
+Sensitivity: 0.6521739130434783
+
+Dataset: DPC type 2.csv
+Params: {'depth': 10, 'iterations': 800, 'l2_leaf_reg': 9, 'learning_rate': 0.05}
+MCC: 0.5598725683373607
+Accuracy: 0.7781818181818182
+Specificity: 0.8321167883211679
+Sensitivity: 0.7246376811594203
+
+Dataset: CKSAAP type 2_AAC.csv
+Params: {'depth': 7, 'iterations': 260, 'l2_leaf_reg': 7, 'learning_rate': 0.05}
+MCC: 0.43279555733650305
+Accuracy: 0.7163636363636363
+Specificity: 0.7101449275362319
+Sensitivity: 0.7226277372262774
+
+Dataset: CKSAAP type 2_DPC type 2.csv
+Params: {'depth': 9, 'iterations': 535, 'l2_leaf_reg': 9, 'learning_rate': 0.1}
+MCC: 0.4953090647358553
+Accuracy: 0.7463768115942029
+Specificity: 0.7971014492753623
+Sensitivity: 0.6956521739130435
+
+Dataset: DPC type 2_AAC.csv
+Params: {'depth': 8, 'iterations': 352, 'l2_leaf_reg': 7, 'learning_rate': 0.01}
+MCC: 0.4766888213331325
+Accuracy: 0.7345454545454545
+Specificity: 0.8260869565217391
+Sensitivity: 0.6423357664233577
+
+Dataset: CKSAAP type 2_DPC type 2.csv
+Params: {'depth': 8, 'iterations': 408, 'l2_leaf_reg': 3, 'learning_rate': 0.15}
+MCC: 0.49699954427398324
+Accuracy: 0.7463768115942029
+Specificity: 0.8115942028985508
+Sensitivity: 0.6811594202898551
+
+Dataset: DPC type 2_CKSAAP type 2_AAC.csv
+Params: {'depth': 10, 'iterations': 472, 'l2_leaf_reg': 7, 'learning_rate': 0.1}
+MCC: 0.4989147908550496
+Accuracy: 0.7490909090909091
+Specificity: 0.7737226277372263
+Sensitivity: 0.7246376811594203
+

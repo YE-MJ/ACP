@@ -1,0 +1,56 @@
+Dataset: AAC.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.5262348115842176
+Accuracy: 0.7608695652173914
+Specificity: 0.8260869565217391
+Sensitivity: 0.6956521739130435
+
+Dataset: CKSAAP type 2.csv
+Params: {'max_depth': 20, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 443}
+MCC: 0.4896543386237115
+Accuracy: 0.7418181818181818
+Specificity: 0.8175182481751825
+Sensitivity: 0.6666666666666666
+
+Dataset: DPC type 2.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.5315536441402549
+Accuracy: 0.7636363636363637
+Specificity: 0.8248175182481752
+Sensitivity: 0.7028985507246377
+
+Dataset: CKSAAP type 2_AAC.csv
+Params: {'max_depth': 50, 'max_features': 'sqrt', 'min_samples_leaf': 4, 'min_samples_split': 8, 'n_estimators': 343}
+MCC: 0.5062012391668808
+Accuracy: 0.7527272727272727
+Specificity: 0.782608695652174
+Sensitivity: 0.7226277372262774
+
+Dataset: CKSAAP type 2_DPC type 2.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.5070925528371099
+Accuracy: 0.75
+Specificity: 0.8333333333333334
+Sensitivity: 0.6666666666666666
+
+Dataset: DPC type 2_AAC.csv
+Params: {'max_depth': 20, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 3, 'n_estimators': 443}
+MCC: 0.4664928432529373
+Accuracy: 0.730909090909091
+Specificity: 0.8043478260869565
+Sensitivity: 0.656934306569343
+
+Dataset: CKSAAP type 2_DPC type 2.csv
+Params: {'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 413}
+MCC: 0.5431787030511007
+Accuracy: 0.7681159420289855
+Specificity: 0.8478260869565217
+Sensitivity: 0.6884057971014492
+
+Dataset: DPC type 2_CKSAAP type 2_AAC.csv
+Params: {'max_depth': 40, 'max_features': 'sqrt', 'min_samples_leaf': 3, 'min_samples_split': 3, 'n_estimators': 566}
+MCC: 0.4567704376326121
+Accuracy: 0.7272727272727273
+Specificity: 0.7737226277372263
+Sensitivity: 0.6811594202898551
+

@@ -1,0 +1,476 @@
+Dataset: PseKRAAC type 16.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: binary_6bit.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: TPC type 1.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.05, 'n_estimators': 241}
+MCC: 0.42514726264418107
+Accuracy: 0.7013081395348837
+Specificity: 0.8619186046511628
+Sensitivity: 0.5406976744186046
+
+Dataset: PseKRAAC type 11.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.05, 'n_estimators': 241}
+MCC: 0.24631721709945043
+Accuracy: 0.6228197674418605
+Specificity: 0.5857558139534884
+Sensitivity: 0.6598837209302325
+
+Dataset: binary.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: binary_3bit type 2.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: binary_3bit type 7.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: PAAC.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.3488902827777482
+Accuracy: 0.6744186046511628
+Specificity: 0.6656976744186046
+Sensitivity: 0.6831395348837209
+
+Dataset: GTPC type 1.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.38388025207880283
+Accuracy: 0.6911337209302325
+Specificity: 0.7369186046511628
+Sensitivity: 0.6453488372093024
+
+Dataset: DPC type 2.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.36392762228428893
+Accuracy: 0.6816860465116279
+Specificity: 0.6540697674418605
+Sensitivity: 0.7093023255813954
+
+Dataset: OPF_10bit.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: APAAC.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.3720993121696973
+Accuracy: 0.686046511627907
+Specificity: 0.688953488372093
+Sensitivity: 0.6831395348837209
+
+Dataset: PseKRAAC type 13.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.27750959334206143
+Accuracy: 0.6366279069767442
+Specificity: 0.5494186046511628
+Sensitivity: 0.7238372093023255
+
+Dataset: BLOSUM62.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: EGAAC.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 199}
+MCC: 0.31483291698993543
+Accuracy: 0.654796511627907
+Specificity: 0.7456395348837209
+Sensitivity: 0.563953488372093
+
+Dataset: GDPC type 1.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.37298284537762616
+Accuracy: 0.6853197674418605
+Specificity: 0.7412790697674418
+Sensitivity: 0.6293604651162791
+
+Dataset: CKSAAGP type 2.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.3765971233316341
+Accuracy: 0.6882267441860465
+Specificity: 0.6744186046511628
+Sensitivity: 0.7020348837209303
+
+Dataset: CC.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.26457492920875425
+Accuracy: 0.6315406976744186
+Specificity: 0.684593023255814
+Sensitivity: 0.5784883720930233
+
+Dataset: CTriad.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.31478587088124005
+Accuracy: 0.6569767441860465
+Specificity: 0.6206395348837209
+Sensitivity: 0.6933139534883721
+
+Dataset: binary_5bit type 1.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: PseKRAAC type 12.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.05, 'n_estimators': 241}
+MCC: 0.24631721709945043
+Accuracy: 0.6228197674418605
+Specificity: 0.5857558139534884
+Sensitivity: 0.6598837209302325
+
+Dataset: ACC.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.2909782785118505
+Accuracy: 0.6446220930232558
+Specificity: 0.6991279069767442
+Sensitivity: 0.5901162790697675
+
+Dataset: CTDT.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.3676799263212856
+Accuracy: 0.6831395348837209
+Specificity: 0.7267441860465116
+Sensitivity: 0.6395348837209303
+
+Dataset: binary_3bit type 5.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: PseKRAAC type 8.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24553427732134042
+Accuracy: 0.622093023255814
+Specificity: 0.5697674418604651
+Sensitivity: 0.6744186046511628
+
+Dataset: PseKRAAC type 2.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.05, 'n_estimators': 241}
+MCC: 0.2754671836200954
+Accuracy: 0.6373546511627907
+Specificity: 0.6002906976744186
+Sensitivity: 0.6744186046511628
+
+Dataset: binary_3bit type 1.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: binary_3bit type 6.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: QSOrder.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.366364803314751
+Accuracy: 0.6824127906976745
+Specificity: 0.7281976744186046
+Sensitivity: 0.6366279069767442
+
+Dataset: binary_5bit type 2.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: binary_3bit type 3.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: TPC type 2.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.3666488307679086
+Accuracy: 0.6729651162790697
+Specificity: 0.5072674418604651
+Sensitivity: 0.8386627906976745
+
+Dataset: OPF_7bit type 3.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: KSCTriad.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.31478587088124005
+Accuracy: 0.6569767441860465
+Specificity: 0.6206395348837209
+Sensitivity: 0.6933139534883721
+
+Dataset: PseKRAAC type 7.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.2761919667890166
+Accuracy: 0.6380813953488372
+Specificity: 0.6453488372093024
+Sensitivity: 0.6308139534883721
+
+Dataset: CKSAAP type 2.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 199}
+MCC: 0.4042765091294101
+Accuracy: 0.7020348837209303
+Specificity: 0.686046511627907
+Sensitivity: 0.7180232558139535
+
+Dataset: PseKRAAC type 5.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.3010123476569578
+Accuracy: 0.6504360465116279
+Specificity: 0.6656976744186046
+Sensitivity: 0.6351744186046512
+
+Dataset: PseKRAAC type 6C.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.22166574306132808
+Accuracy: 0.6104651162790697
+Specificity: 0.5697674418604651
+Sensitivity: 0.6511627906976745
+
+Dataset: SOCNumber.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 199}
+MCC: 0.25793256797464165
+Accuracy: 0.627906976744186
+Specificity: 0.6918604651162791
+Sensitivity: 0.563953488372093
+
+Dataset: AESNN3.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: DistancePair.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.3966650138992187
+Accuracy: 0.6976744186046512
+Specificity: 0.7383720930232558
+Sensitivity: 0.6569767441860465
+
+Dataset: CKSAAGP type 1.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.3767374906095664
+Accuracy: 0.6875
+Specificity: 0.7354651162790697
+Sensitivity: 0.6395348837209303
+
+Dataset: PseKRAAC type 3A.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.25880952186928274
+Accuracy: 0.6293604651162791
+Specificity: 0.6424418604651163
+Sensitivity: 0.6162790697674418
+
+Dataset: PseKRAAC type 6B.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.05, 'n_estimators': 241}
+MCC: 0.2856514053482977
+Accuracy: 0.6409883720930233
+Specificity: 0.561046511627907
+Sensitivity: 0.7209302325581395
+
+Dataset: CTDD.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.42272076337362874
+Accuracy: 0.7107558139534884
+Specificity: 0.748546511627907
+Sensitivity: 0.6729651162790697
+
+Dataset: GTPC type 2.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 199}
+MCC: 0.37707049731491565
+Accuracy: 0.6875
+Specificity: 0.6351744186046512
+Sensitivity: 0.7398255813953488
+
+Dataset: AC.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.2896582402773928
+Accuracy: 0.6438953488372093
+Specificity: 0.7005813953488372
+Sensitivity: 0.5872093023255814
+
+Dataset: PseKRAAC type 10.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.05, 'n_estimators': 241}
+MCC: 0.24631721709945043
+Accuracy: 0.6228197674418605
+Specificity: 0.5857558139534884
+Sensitivity: 0.6598837209302325
+
+Dataset: DPC type 1.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.4057246236132411
+Accuracy: 0.7013081395348837
+Specificity: 0.7630813953488372
+Sensitivity: 0.6395348837209303
+
+Dataset: ZScale.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: ASDC.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 199}
+MCC: 0.43706480186082364
+Accuracy: 0.7165697674418605
+Specificity: 0.7834302325581395
+Sensitivity: 0.6497093023255814
+
+Dataset: PseKRAAC type 4.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.2958093280414655
+Accuracy: 0.6475290697674418
+Specificity: 0.6119186046511628
+Sensitivity: 0.6831395348837209
+
+Dataset: OPF_7bit type 1.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: binary_3bit type 4.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: PseKRAAC type 3B.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.05, 'n_estimators': 241}
+MCC: 0.25920436647684314
+Accuracy: 0.6293604651162791
+Specificity: 0.6598837209302325
+Sensitivity: 0.5988372093023255
+
+Dataset: CTDC.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.3856090201697205
+Accuracy: 0.6918604651162791
+Specificity: 0.7412790697674418
+Sensitivity: 0.6424418604651163
+
+Dataset: PseKRAAC type 14.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: GAAC.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 199}
+MCC: 0.31483291698993543
+Accuracy: 0.654796511627907
+Specificity: 0.7456395348837209
+Sensitivity: 0.563953488372093
+
+Dataset: PseKRAAC type 9.csv
+Params: {'algorithm': 'SAMME', 'learning_rate': 0.1, 'n_estimators': 121}
+MCC: 0.3191803778663799
+Accuracy: 0.6569767441860465
+Specificity: 0.747093023255814
+Sensitivity: 0.5668604651162791
+
+Dataset: GDPC type 2.csv
+Params: {'algorithm': 'SAMME', 'learning_rate': 0.2, 'n_estimators': 152}
+MCC: 0.3096666306890185
+Accuracy: 0.654796511627907
+Specificity: 0.6656976744186046
+Sensitivity: 0.6438953488372093
+
+Dataset: AAC.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.3966650138992187
+Accuracy: 0.6976744186046512
+Specificity: 0.7383720930232558
+Sensitivity: 0.6569767441860465
+
+Dataset: PseKRAAC type 15.csv
+Params: {'algorithm': 'SAMME', 'learning_rate': 0.15, 'n_estimators': 398}
+MCC: 0.2659909008347913
+Accuracy: 0.6329941860465116
+Specificity: 0.6308139534883721
+Sensitivity: 0.6351744186046512
+
+Dataset: KNN.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: AAIndex.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: PseKRAAC type 1.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.05, 'n_estimators': 241}
+MCC: 0.24631721709945043
+Accuracy: 0.6228197674418605
+Specificity: 0.5857558139534884
+Sensitivity: 0.6598837209302325
+
+Dataset: OPF_7bit type 2.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.1, 'n_estimators': 264}
+MCC: 0.24142600699579278
+Accuracy: 0.6206395348837209
+Specificity: 0.6031976744186046
+Sensitivity: 0.6380813953488372
+
+Dataset: PseKRAAC type 6A.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.05, 'n_estimators': 241}
+MCC: 0.2538104854868824
+Accuracy: 0.626453488372093
+Specificity: 0.5843023255813954
+Sensitivity: 0.6686046511627907
+
+Dataset: NMBroto.csv
+Params: {'algorithm': 'SAMME.R', 'learning_rate': 0.2, 'n_estimators': 210}
+MCC: 0.2993881351759032
+Accuracy: 0.6489825581395349
+Specificity: 0.6976744186046512
+Sensitivity: 0.6002906976744186
+

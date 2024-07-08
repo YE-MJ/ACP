@@ -1,0 +1,6 @@
+Dataset: QSOrder.csv
+Ensemble MCC: 0.5213734841843778
+Ensemble Accuracy: 0.7594476744186046
+Ensemble Specificity: 0.8081395348837209
+Ensemble Sensitivity: 0.7107558139534884
+

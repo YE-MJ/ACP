@@ -1,0 +1,6 @@
+Dataset: CTDD_DPC type 2_ASDC_AAC_QSOrder.csv
+Ensemble MCC: 0.537548508541731
+Ensemble Accuracy: 0.7667151162790697
+Ensemble Specificity: 0.8284883720930233
+Ensemble Sensitivity: 0.7049418604651163
+

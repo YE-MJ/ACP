@@ -1,0 +1,6 @@
+Dataset: DPC type 2_CKSAAP type 2_AAC.csv
+Ensemble MCC: 0.5187057995836745
+Ensemble Accuracy: 0.7587209302325582
+Ensemble Specificity: 0.7936046511627907
+Ensemble Sensitivity: 0.7238372093023255
+

@@ -1,0 +1,63 @@
+Dataset: AAC.csv
+Params: {'depth': 9, 'iterations': 535, 'l2_leaf_reg': 9, 'learning_rate': 0.1}
+MCC: 0.515095916636406
+Accuracy: 0.7536231884057971
+Specificity: 0.8405797101449275
+Sensitivity: 0.6666666666666666
+
+Dataset: ASDC.csv
+Params: {'depth': 8, 'iterations': 352, 'l2_leaf_reg': 7, 'learning_rate': 0.01}
+MCC: 0.4445341294200179
+Accuracy: 0.72
+Specificity: 0.7883211678832117
+Sensitivity: 0.6521739130434783
+
+Dataset: CKSAAP type 2.csv
+Params: {'depth': 10, 'iterations': 800, 'l2_leaf_reg': 9, 'learning_rate': 0.05}
+MCC: 0.5598725683373607
+Accuracy: 0.7781818181818182
+Specificity: 0.8321167883211679
+Sensitivity: 0.7246376811594203
+
+Dataset: QSOrder.csv
+Params: {'depth': 7, 'iterations': 260, 'l2_leaf_reg': 7, 'learning_rate': 0.05}
+MCC: 0.43279555733650305
+Accuracy: 0.7163636363636363
+Specificity: 0.7101449275362319
+Sensitivity: 0.7226277372262774
+
+Dataset: CTDD.csv
+Params: {'depth': 8, 'iterations': 352, 'l2_leaf_reg': 7, 'learning_rate': 0.01}
+MCC: 0.4766888213331325
+Accuracy: 0.7345454545454545
+Specificity: 0.8260869565217391
+Sensitivity: 0.6423357664233577
+
+Dataset: DPC type 2.csv
+Params: {'depth': 10, 'iterations': 800, 'l2_leaf_reg': 9, 'learning_rate': 0.05}
+MCC: 0.5164961690883358
+Accuracy: 0.7536231884057971
+Specificity: 0.8478260869565217
+Sensitivity: 0.6594202898550725
+
+Dataset: CTDD_AAC.csv
+Params: {'depth': 9, 'iterations': 535, 'l2_leaf_reg': 9, 'learning_rate': 0.1}
+MCC: 0.49833360411744315
+Accuracy: 0.7490909090909091
+Specificity: 0.7591240875912408
+Sensitivity: 0.7391304347826086
+
+Dataset: CTDD_DPC type 2_ASDC_AAC_QSOrder.csv
+Params: {'depth': 10, 'iterations': 472, 'l2_leaf_reg': 7, 'learning_rate': 0.1}
+MCC: 0.5209773714405647
+Accuracy: 0.76
+Specificity: 0.7883211678832117
+Sensitivity: 0.7318840579710145
+
+Dataset: CTDD_CKSAAP type 2_AAC_QSOrder.csv
+Params: {'depth': 7, 'iterations': 260, 'l2_leaf_reg': 7, 'learning_rate': 0.05}
+MCC: 0.4634095428307606
+Accuracy: 0.730909090909091
+Specificity: 0.7753623188405797
+Sensitivity: 0.6861313868613139
+

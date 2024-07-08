@@ -1,0 +1,6 @@
+Dataset: ASDC.csv
+Ensemble MCC: 0.5154844203528669
+Ensemble Accuracy: 0.7558139534883721
+Ensemble Specificity: 0.8168604651162791
+Ensemble Sensitivity: 0.6947674418604651
+

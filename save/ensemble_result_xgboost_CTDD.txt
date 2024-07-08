@@ -1,0 +1,6 @@
+Dataset: CTDD.csv
+Ensemble MCC: 0.5182329341328274
+Ensemble Accuracy: 0.7587209302325582
+Ensemble Specificity: 0.7863372093023255
+Ensemble Sensitivity: 0.7311046511627907
+

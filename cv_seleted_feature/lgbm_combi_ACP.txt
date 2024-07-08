@@ -1,0 +1,56 @@
+Dataset: AAC.csv
+Params: {'colsample_bytree': 0.9, 'learning_rate': 0.15, 'max_depth': 9, 'n_estimators': 554, 'reg_alpha': 1, 'reg_lambda': 2, 'subsample': 0.8}
+MCC: 0.5231143743471868
+Accuracy: 0.7608695652173914
+Specificity: 0.7971014492753623
+Sensitivity: 0.7246376811594203
+
+Dataset: CKSAAP type 2.csv
+Params: {'colsample_bytree': 1.0, 'learning_rate': 0.05, 'max_depth': 10, 'n_estimators': 591, 'reg_alpha': 0.1, 'reg_lambda': 1, 'subsample': 1.0}
+MCC: 0.3902773421863469
+Accuracy: 0.6945454545454546
+Specificity: 0.7299270072992701
+Sensitivity: 0.6594202898550725
+
+Dataset: DPC type 2.csv
+Params: {'colsample_bytree': 0.9, 'learning_rate': 0.15, 'max_depth': 9, 'n_estimators': 554, 'reg_alpha': 1, 'reg_lambda': 2, 'subsample': 0.8}
+MCC: 0.490927372209116
+Accuracy: 0.7454545454545455
+Specificity: 0.7372262773722628
+Sensitivity: 0.7536231884057971
+
+Dataset: CKSAAP type 2_AAC.csv
+Params: {'colsample_bytree': 1.0, 'learning_rate': 0.05, 'max_depth': 10, 'n_estimators': 591, 'reg_alpha': 0.1, 'reg_lambda': 1, 'subsample': 1.0}
+MCC: 0.441071284923152
+Accuracy: 0.72
+Specificity: 0.6884057971014492
+Sensitivity: 0.7518248175182481
+
+Dataset: CKSAAP type 2_DPC type 2.csv
+Params: {'colsample_bytree': 0.6, 'learning_rate': 0.15, 'max_depth': 4, 'n_estimators': 121, 'reg_alpha': 2, 'reg_lambda': 1, 'subsample': 0.6}
+MCC: 0.4500321964831445
+Accuracy: 0.7246376811594203
+Specificity: 0.7536231884057971
+Sensitivity: 0.6956521739130435
+
+Dataset: DPC type 2_AAC.csv
+Params: {'colsample_bytree': 0.8, 'learning_rate': 0.15, 'max_depth': 9, 'n_estimators': 343, 'reg_alpha': 0, 'reg_lambda': 0.5, 'subsample': 1.0}
+MCC: 0.4301801665879685
+Accuracy: 0.7127272727272728
+Specificity: 0.7898550724637681
+Sensitivity: 0.635036496350365
+
+Dataset: CKSAAP type 2_DPC type 2.csv
+Params: {'colsample_bytree': 0.6, 'learning_rate': 0.15, 'max_depth': 4, 'n_estimators': 121, 'reg_alpha': 2, 'reg_lambda': 1, 'subsample': 0.6}
+MCC: 0.4500321964831445
+Accuracy: 0.7246376811594203
+Specificity: 0.7536231884057971
+Sensitivity: 0.6956521739130435
+
+Dataset: DPC type 2_CKSAAP type 2_AAC.csv
+Params: {'colsample_bytree': 0.9, 'learning_rate': 0.15, 'max_depth': 9, 'n_estimators': 554, 'reg_alpha': 1, 'reg_lambda': 2, 'subsample': 0.8}
+MCC: 0.454911155997222
+Accuracy: 0.7272727272727273
+Specificity: 0.7445255474452555
+Sensitivity: 0.7101449275362319
+

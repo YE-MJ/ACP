@@ -1,0 +1,28 @@
+Dataset: protein_embeddings_unirep.csv
+Params: {'depth': 10, 'iterations': 472, 'l2_leaf_reg': 7, 'learning_rate': 0.1}
+MCC: 0.42933498266694226
+Accuracy: 0.7143895348837209
+Specificity: 0.7398255813953488
+Sensitivity: 0.688953488372093
+
+Dataset: protein_embeddings_prott5.csv
+Params: {'depth': 10, 'iterations': 800, 'l2_leaf_reg': 9, 'learning_rate': 0.05}
+MCC: 0.4782956487783676
+Accuracy: 0.7376453488372093
+Specificity: 0.7936046511627907
+Sensitivity: 0.6816860465116279
+
+Dataset: protein_embeddings_protbert.csv
+Params: {'depth': 10, 'iterations': 800, 'l2_leaf_reg': 9, 'learning_rate': 0.05}
+MCC: 0.4741303293780509
+Accuracy: 0.7361918604651163
+Specificity: 0.7790697674418605
+Sensitivity: 0.6933139534883721
+
+Dataset: protein_embeddings_esm2.csv
+Params: {'depth': 10, 'iterations': 575, 'l2_leaf_reg': 7, 'learning_rate': 0.1}
+MCC: 0.5078803914434771
+Accuracy: 0.752906976744186
+Specificity: 0.7979651162790697
+Sensitivity: 0.7078488372093024
+

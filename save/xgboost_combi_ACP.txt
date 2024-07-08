@@ -1,0 +1,77 @@
+Dataset: AAC.csv
+Params: {'colsample_bytree': 0.6, 'gamma': 0.1, 'learning_rate': 0.2, 'max_depth': 4, 'n_estimators': 439, 'reg_alpha': 1, 'reg_lambda': 1, 'subsample': 0.9}
+MCC: 0.45797898975824197
+Accuracy: 0.7282608695652174
+Specificity: 0.7681159420289855
+Sensitivity: 0.6884057971014492
+
+Dataset: ASDC.csv
+Params: {'colsample_bytree': 0.9, 'gamma': 0, 'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 158, 'reg_alpha': 0.1, 'reg_lambda': 1, 'subsample': 0.9}
+MCC: 0.43081451204668697
+Accuracy: 0.7127272727272728
+Specificity: 0.7883211678832117
+Sensitivity: 0.6376811594202898
+
+Dataset: CKSAAP type 2.csv
+Params: {'colsample_bytree': 1.0, 'gamma': 0, 'learning_rate': 0.05, 'max_depth': 6, 'n_estimators': 700, 'reg_alpha': 1, 'reg_lambda': 0.1, 'subsample': 0.7}
+MCC: 0.5422312359641155
+Accuracy: 0.7709090909090909
+Specificity: 0.7883211678832117
+Sensitivity: 0.7536231884057971
+
+Dataset: QSOrder.csv
+Params: {'colsample_bytree': 1.0, 'gamma': 0.2, 'learning_rate': 0.01, 'max_depth': 6, 'n_estimators': 661, 'reg_alpha': 1, 'reg_lambda': 0.1, 'subsample': 0.7}
+MCC: 0.4477795069940421
+Accuracy: 0.7236363636363636
+Specificity: 0.7028985507246377
+Sensitivity: 0.7445255474452555
+
+Dataset: CTDD.csv
+Params: {'colsample_bytree': 0.8, 'gamma': 0.3, 'learning_rate': 0.15, 'max_depth': 10, 'n_estimators': 604, 'reg_alpha': 0.5, 'reg_lambda': 2, 'subsample': 0.8}
+MCC: 0.4311799018641513
+Accuracy: 0.7127272727272728
+Specificity: 0.7971014492753623
+Sensitivity: 0.6277372262773723
+
+Dataset: DPC type 2.csv
+Params: {'colsample_bytree': 1.0, 'gamma': 0.2, 'learning_rate': 0.01, 'max_depth': 6, 'n_estimators': 661, 'reg_alpha': 1, 'reg_lambda': 0.1, 'subsample': 0.7}
+MCC: 0.5138176920753655
+Accuracy: 0.7536231884057971
+Specificity: 0.8333333333333334
+Sensitivity: 0.6739130434782609
+
+Dataset: CTDD_AAC.csv
+Params: {'colsample_bytree': 0.9, 'gamma': 0.4, 'learning_rate': 0.1, 'max_depth': 10, 'n_estimators': 800, 'reg_alpha': 2, 'reg_lambda': 0.1, 'subsample': 0.8}
+MCC: 0.46233670813168976
+Accuracy: 0.730909090909091
+Specificity: 0.7518248175182481
+Sensitivity: 0.7101449275362319
+
+Dataset: CTDD_DPC type 2_ASDC_AAC_QSOrder.csv
+Params: {'colsample_bytree': 0.8, 'gamma': 0.2, 'learning_rate': 0.2, 'max_depth': 6, 'n_estimators': 971, 'reg_alpha': 0.5, 'reg_lambda': 2, 'subsample': 0.7}
+MCC: 0.5345712388117583
+Accuracy: 0.7672727272727272
+Specificity: 0.7591240875912408
+Sensitivity: 0.7753623188405797
+
+Dataset: CTDD_CKSAAP type 2_AAC_QSOrder.csv
+Params: {'colsample_bytree': 1.0, 'gamma': 0.2, 'learning_rate': 0.01, 'max_depth': 6, 'n_estimators': 661, 'reg_alpha': 1, 'reg_lambda': 0.1, 'subsample': 0.7}
+MCC: 0.4619496836551595
+Accuracy: 0.730909090909091
+Specificity: 0.7463768115942029
+Sensitivity: 0.7153284671532847
+
+Dataset: protein_embeddings_prott5.csv
+Params: {'colsample_bytree': 1.0, 'gamma': 0.2, 'learning_rate': 0.01, 'max_depth': 6, 'n_estimators': 661, 'reg_alpha': 1, 'reg_lambda': 0.1, 'subsample': 0.7}
+MCC: 0.43707292996442504
+Accuracy: 0.7163636363636363
+Specificity: 0.7898550724637681
+Sensitivity: 0.6423357664233577
+
+Dataset: protein_embeddings_esm2.csv
+Params: {'colsample_bytree': 0.8, 'gamma': 0.3, 'learning_rate': 0.15, 'max_depth': 10, 'n_estimators': 604, 'reg_alpha': 0.5, 'reg_lambda': 2, 'subsample': 0.8}
+MCC: 0.4592427176827301
+Accuracy: 0.7282608695652174
+Specificity: 0.782608695652174
+Sensitivity: 0.6739130434782609
+

@@ -1,0 +1,6 @@
+Dataset: CTDD_AAC.csv
+Ensemble MCC: 0.516373056680209
+Ensemble Accuracy: 0.7572674418604651
+Ensemble Specificity: 0.7994186046511628
+Ensemble Sensitivity: 0.7151162790697675
+

@@ -1,0 +1,6 @@
+Dataset: protein_embeddings_esm2.csv
+Ensemble MCC: 0.4878724128221514
+Ensemble Accuracy: 0.7434593023255814
+Ensemble Specificity: 0.7747093023255814
+Ensemble Sensitivity: 0.7122093023255814
+
